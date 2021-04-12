@@ -30,7 +30,7 @@ function App() {
       <Route exact path="/details/:id">
       <section className='container'>
         <h3>Details</h3>
-        <Details  first_name = 'p' last_name ='u' number ='t' ></Details>
+        <Details  first_name = '' last_name ='' number ='' ></Details>
       </section>
       </Route>
       </Switch>
